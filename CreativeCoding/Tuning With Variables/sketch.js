@@ -4,13 +4,13 @@
 function setup() {
   createCanvas(windowWidth, windowHeight);
   strokeWeight(1);
-  fill ('gray');
+  fill ('red');
 }
 
 function draw() {
   // runs in a loop
   
-  var num = 30; // variable for the number of squares
+  var num = 10; // variable for the number of squares
   var sideLen = windowWidth/num; // variable for the side length of each square
   
   

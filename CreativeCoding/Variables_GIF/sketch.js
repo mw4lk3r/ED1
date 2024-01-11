@@ -11,13 +11,13 @@ gif = load Image ('Assets/GIF_Walker copy.gif');
 function setup() {
   createCanvas(windowWidth, windowHeight);
   strokeWeight(1);
-  fill ('red');
+  fill ('white');
 }
 
 function draw() {
   // runs in a loop
   
-  var num = 10; // variable for the number of squares
+  var num = 6; // variable for the number of squares
   var sideLen = windowWidth/num; // variable for the side length of each square
   
   

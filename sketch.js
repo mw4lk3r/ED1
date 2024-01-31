@@ -1,7 +1,7 @@
 let gif;
 
 function preload (){
-gif = load Image ('Assets/GIF_Walker copy.gif');
+gif = load Image ('Assets/GIF_Walker%20copy.gif');
 }
 
 

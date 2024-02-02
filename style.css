@@ -16,6 +16,10 @@ img {
   border: 5px solid #000;
 }
 
+h2{
+	positions: absolute;
+	}
+	
 h1{
   color: black;
   display: inline; background; pink;
